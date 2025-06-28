@@ -130,18 +130,6 @@ RSI: 28.21
 
 ---
 
-## 📽️ Submission Guidelines (If Required)
-
-1. Upload this project folder as a ZIP or GitHub repo
-2. Record a 1–2 minute screen-share video covering:
-   - File structure
-   - Code logic
-   - Google Sheet output
-   - Telegram alert in action
-3. Share the video link (Google Drive or YouTube Unlisted)
-
----
-
 ## 🙋‍♂️ Author
 
 - 👨‍💻 Built by: Param Pandya
