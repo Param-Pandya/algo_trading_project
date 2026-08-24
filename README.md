@@ -30,7 +30,7 @@ This is a modular, Python-based mini **algo-trading system** that uses technical
 ---
 
 ## 📁 Project Structure
-
+ 
 ```
 algo_trading_project/
 ├── main.py                    # Main controller script
