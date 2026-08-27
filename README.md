@@ -3,7 +3,7 @@
 
 This is a modular, Python-based mini **algo-trading system** that uses technical indicators and machine learning to generate buy signals, backtest strategies, log results to Google Sheets, and send real-time alerts via Telegram.
 
---- 
+---
 
 ## 🧠 Features
 
